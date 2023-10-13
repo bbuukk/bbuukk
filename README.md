@@ -1,10 +1,9 @@
 
-<h3 align="center">Hi 👋, I'm Bohdan</h3>
+<h3 align="center">Hi 👋, I'm Bohdan.</h3>
+
+<img src="./Check out.png" width="100%" height="100%">
 <p align="center">I am working on website 'Green World' as my PET-project now, you can check it out in 'green' repository
-</h3>
 
-
-<img src="./fone_t.png" width="100%" height="100%">
 
 
 
