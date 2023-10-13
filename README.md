@@ -14,7 +14,7 @@
 
 ---
  
-   <h3 align="center">I’m a React.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+   <h3 align="center">I’m <a></a>a React.js <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
  Frontend Web Developer actively seeking career opportunities</h3>
 
 <p align="center">
