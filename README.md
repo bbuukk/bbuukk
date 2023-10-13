@@ -15,7 +15,7 @@
  
 ---
  
-   <h3 align="center">I’m a Web <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> Developer actively seeking career opportunities</h3>
+   <h3 align="center">I’m a <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> Web Developer actively seeking career opportunities</h3>
 
 <p align="center">
   <a href='https://github.com/bbuukk/green'><img src="./giphy2.gif" width="100" align="middle"></a>
