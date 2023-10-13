@@ -4,7 +4,7 @@
     <a href="https://linkedin.com/in/bohdan-buchok" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bohdan-buchok" height="20" width="30" style="vertical-align:top"/>
     </a>
-    <a href="https://instagram.com/https://www.instagram.com/bogdanbuchok/" target="blank">
+    <a href="https://www.instagram.com/bogdanbuchok/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bogdanbuchok/" height="20" width="30" style="vertical-align:top"/>
     </a>
   </span>
