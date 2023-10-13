@@ -19,7 +19,7 @@
  Frontend Web Developer actively seeking career opportunities</h3>
 
 <p align="center">
-  <img src="./giphy2.gif" width="100" align="middle">
+  <a href='https://github.com/bbuukk/green'><img src="./giphy2.gif" width="100" align="middle"></a>
   <b>Check out <a href='https://github.com/bbuukk/green'>Green World</a> - my PET-project, I am working on!</b>
 </p>
 
