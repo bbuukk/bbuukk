@@ -2,7 +2,7 @@
   <b>Hi 👋, I'm Bohdan.</b>
 </h3>
   <br>
- <img src="./check_out_t.png"><br><br>
+ <img src="./Check out(4).png"><br><br>
 
 
 <p align="center">
