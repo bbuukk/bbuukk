@@ -18,9 +18,8 @@
     </tr>
   </table>
 
-  <p align="left">
-  <img src="./leaf.png" width="100">
-  I am working on website 'Green World' as my PET-project now,<br> 
+<p align="left">
+  <img src="./giphy.gif" width="100" align="middle">
+  I am working on website 'Green World' as my PET-project now,
   check it out in 'green' repository
 </p>
-
